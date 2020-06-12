@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "AZURE_API_MGMT_NAME": "<your-value-here>",
+    "AZURE_API_MGMT_RSRC_GRP": "<your-value-here>",
+    "AZURE_SUBSCRIPTION_ID": "<your-value-here>",
+    "AZURE_SUBSCRIPTION_NAME": "<your-value-here>",
+    "AZURE_SVC_APPLICATION_ID": "<your-value-here>",
+    "AZURE_SVC_CLIENT_SECRET": "<your-value-here>",
+    "AZURE_TENANT_ID": "<your-value-here>"
+  }
+}
