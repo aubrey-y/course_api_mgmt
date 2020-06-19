@@ -8,6 +8,8 @@
 
 Azure Cloud Function to create API Management Users for [gatech-api](https://github.com/aubrey-y/gatech-api).
 
+**IMPORTANT:** After further investigation, this process only works with Azure API Management Pricing tiers above Consumption. This means that for automated API management, users would be forced to pay a flat rate per month, starting at $50. Don't do this unless you're a big platform getting at least tens of millions of requests per month.
+
 [![Build Status](https://travis-ci.org/aubrey-y/course_api_mgmt.svg?branch=master)](https://travis-ci.org/aubrey-y/course_api_mgmt)
 ![GitHub top language](https://img.shields.io/github/languages/top/aubrey-y/course_api_mgmt)
 
